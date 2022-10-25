@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/activity_main.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_1.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_10.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_11.xml" value="0.20341880341880342" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_12.xml" value="0.16905737704918034" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_13.xml" value="0.264" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_2.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_3.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_4.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_5.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_6.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_7.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_8.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/alice/AndroidStudioProjects/LindasPaisagens5/app/src/main/res/layout/intro_9.xml" value="0.20341880341880342" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
